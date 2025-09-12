@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="200" src="https://github.com/dinoCodes2005/dinoCodes2005/blob/main/assets/senku.gif?raw=true" />
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -54,7 +58,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
 
 ###
 
