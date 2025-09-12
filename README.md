@@ -6,20 +6,16 @@
 
 <br>
 
-<img align="left" height="200" src="https://github.com/dinoCodes2005/dinoCodes2005/blob/main/assets/senku.gif?raw=true"  />
+<img align="left" height="200" src="https://github.com/dinoCodes2005/dinoCodes2005/blob/main/assets/senku.gif?raw=true" />
+
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoCodes2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Dino's%20Stats" height="150" alt="languages graph" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="top" src="https://github-profile-trophy.vercel.app?username=dinoCodes2005&theme=darkhub&column=2&row=1&margin-w=32&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 
 <br clear="both">
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoCodes2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Dino's%20Stats" height="150" alt="languages graph"  />
-  &nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app?username=dinoCodes2005&theme=darkhub&column=2&row=1&margin-w=32&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-<br clear="both">
-<br>
-
+<!-- Skills -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   &nbsp;
@@ -43,6 +39,7 @@
 <br clear="both">
 <br>
 
+<!-- Social links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/rahul-chowdhary-2ab751321">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -72,6 +69,7 @@
 <br>
 <br>
 
+<!-- Pacman contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph.svg">
