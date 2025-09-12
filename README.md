@@ -13,7 +13,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoCodes2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Dino's%20Stats" height="150" alt="languages graph"  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app?username=dinoCodes2005&theme=darkhub&column=2&row=1&margin-w=32&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
