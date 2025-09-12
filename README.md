@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌐 Web developer building high-performance apps with Django, React & Next.js<br>🏆 Java CP | ★★ CodeChef | 1100+ Codeforces | 1500+ LeetCode – always leveling up</h3>
+<h3 align="center">🌐 Web developer building high-performance apps with Django, React & Next.js<br>🏆 Java CP | ★★ CodeChef | 1100+ Codeforces | 1500+ LeetCode – always leveling up</h3>
 
 ###
 
@@ -10,9 +10,9 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinoCodes2005&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoCodes2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Dino's%20Stats" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dinoCodes2005&theme=darkhub&column=3&row=1&margin-w=32&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -66,10 +66,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/snake.svg" alt="Snake animation" />
 
 ###
