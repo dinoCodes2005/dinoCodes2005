@@ -12,7 +12,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinoCodes2005&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Dino's%20Stats" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=dinoCodes2005&theme=darkhub&column=3&row=1&margin-w=32&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dinoCodes2005&theme=darkhub&column=2&row=1&margin-w=32&margin-h=20&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -66,6 +66,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dinoCodes2005/dinoCodes2005/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
