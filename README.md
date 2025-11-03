@@ -4,7 +4,7 @@
 
 <h3 align="center">
 🌐 Web developer building high-performance apps with Django, React & Next.js<br>
-🏆 Java CP | ★★ CodeChef | 1100+ Codeforces | 1500+ LeetCode – always leveling up
+🏆 Java CP | ★★ CodeChef | 1100+ Codeforces | 1700+ LeetCode – always leveling up
 </h3>
 
 <br>
